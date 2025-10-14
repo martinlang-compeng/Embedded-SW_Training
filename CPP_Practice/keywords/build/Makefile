@@ -1,4 +1,4 @@
-PROG = keywords
+PROG = keywords.exe
 ROOT_DIR := ../../..
 
 # GLOBAL VARIABLES

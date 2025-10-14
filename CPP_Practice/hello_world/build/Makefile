@@ -1,4 +1,4 @@
-PROG = hello_world
+PROG = hello_world.exe
 ROOT_DIR := ../../..
 
 # GLOBAL VARIABLES

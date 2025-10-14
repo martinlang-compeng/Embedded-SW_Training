@@ -1,4 +1,4 @@
-PROG = basic_data_types
+PROG = basic_data_types.exe
 ROOT_DIR := ../../..
 
 # GLOBAL VARIABLES
