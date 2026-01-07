@@ -38,6 +38,7 @@ using number_t = int;
 
 int main() {
     // The const keyword specifies that a variable's value is constant and cannot be modified by the compiler
+    // This keyword can also be used on function parameters. This is especially useful when passing by reference and dealing with pointer usage
     // This is essentially forcing the variable to be read-only
     const double PI = {3.14159}; // common naming convention for consts is to make all letters uppercase
 
