@@ -25,5 +25,13 @@ public:
             return true;
         else
             return false;
+
+        // Another method is to sort both strings and compare them
+        // std::sort(s.begin(), s.end());
+        // std::sort(t.begin(), t.end());
+
+        // if(s == t)
+        //     return true;
+        // return false;
     }
 };
